@@ -5,6 +5,7 @@
 ---
 
 ## Features
+- **Created from scratch by Ege Önder**  
 - Accepts Wi-Fi SSID and password from the user.  
 - Accepts target website URL from the user.  
 - Downloads website content in small chunks to continuously generate network traffic.  
@@ -38,3 +39,6 @@
 - Add a web-based interface for dynamic user input.  
 - Support multiple websites in parallel for increased traffic generation.  
 - Implement adjustable traffic speed and chunk size for flexible testing.  
+
+
+**Thank you for testing!**
