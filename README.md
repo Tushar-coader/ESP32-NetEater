@@ -20,6 +20,8 @@
 4. Enter the target website URL.  
 5. ESP32 will start downloading the site continuously, generating internet traffic.  
 
+> Note: This code has **not been personally tested** and is provided as-is for educational purposes.
+
 ---
 
 ## Disclaimer
