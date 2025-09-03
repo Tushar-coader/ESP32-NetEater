@@ -27,7 +27,8 @@
 - **Do not use this project to target third-party websites or networks without permission.**  
 - The creator of this project **assumes no responsibility** for misuse or any consequences arising from improper use.  
 - Excessive network usage may trigger rate limits or temporary blocks by service providers.  
-- Ensure continuous power supply if running 24/7.  
+- Ensure continuous power supply if running 24/7.
+- Running the ESP32 continuously may cause it to overheat.
 
 ---
 
